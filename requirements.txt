@@ -2,3 +2,4 @@ streamlit
 openpyxl
 pdfplumber
 fpdf2
+python-docx
